@@ -1,4 +1,4 @@
-# TXT-
+# Tweets Toxicity Analysis
 
 This project had been developed during my Master Degree in "Data Science and Business Informatics" at the University of Pisa for the "Text Analytics" course.
 
